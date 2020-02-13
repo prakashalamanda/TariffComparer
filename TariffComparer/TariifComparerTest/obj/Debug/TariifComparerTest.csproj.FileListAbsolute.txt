@@ -1,0 +1,16 @@
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\obj\Debug\TariifComparerTest.csprojAssemblyReference.cache
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\bin\Debug\TariifComparerTest.dll
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\bin\Debug\TariifComparerTest.pdb
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\obj\Debug\TariifComparerTest.csproj.CopyComplete
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\obj\Debug\TariifComparerTest.dll
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\obj\Debug\TariifComparerTest.pdb
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\bin\Debug\TariffComparer.exe
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\bin\Debug\TariffComparer.pdb
+C:\Users\praka\source\repos\TariffComparer\TariifComparerTest\bin\Debug\TariffComparer.exe.config

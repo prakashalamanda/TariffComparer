@@ -1,0 +1,5 @@
+C:\Users\praka\source\repos\TariffComparer\TariffComparer\bin\Debug\TariffComparer.exe.config
+C:\Users\praka\source\repos\TariffComparer\TariffComparer\bin\Debug\TariffComparer.exe
+C:\Users\praka\source\repos\TariffComparer\TariffComparer\bin\Debug\TariffComparer.pdb
+C:\Users\praka\source\repos\TariffComparer\TariffComparer\obj\Debug\TariffComparer.exe
+C:\Users\praka\source\repos\TariffComparer\TariffComparer\obj\Debug\TariffComparer.pdb
